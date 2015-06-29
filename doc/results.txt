@@ -1,0 +1,35 @@
+
+TEST: Java 8 Stream Parallel
+Average duration: PT28.425S
+Sym-links counted: Yes
+Initial Directory Visited: Yes
+
+TEST: Walk File Tree
+Average duration: PT28.4718S
+Sym-links counted: Yes
+Initial Directory Visited: Yes
+
+TEST: Java 8 Stream Sequential
+Average duration: PT29.62S
+Sym-links counted: Yes
+Initial Directory Visited: Yes
+
+TEST: File Walker
+Average duration: PT32.5256S
+Sym-links counted: Yes
+Initial Directory Visited: No
+
+TEST: listFiles - Recursive
+Average duration: PT32.5864S
+Sym-links counted: Yes
+Initial Directory Visited: No
+
+TEST: listFiles - Queue
+Average duration: PT33.7566S
+Sym-links counted: No
+Initial Directory Visited: Yes
+
+TEST: commons-io - FileUtils
+Average duration: PT1M5.413S
+Sym-links counted: No
+Initial Directory Visited: Yes
